@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshwaqAK
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning react development
-- 💞️ I’m looking to collaborate on MEAN development project...
+- 👀 I’m interested in software development
+- 💞️ I’m looking to collaborate on MEAN / MERN development project...
 - 📫 Reach me ashwaq007p@gmail.com
 
 <!---
